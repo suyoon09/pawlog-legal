@@ -1,0 +1,34 @@
+# FurScript
+
+> Clinical-grade pet health tracking for iOS. Turn everyday pet observations into vet-ready SOAP reports.
+
+FurScript is a mobile application that helps pet owners maintain professional-quality health records for their animals. It uses the SOAP clinical documentation format — the same standard used by veterinarians and human healthcare providers worldwide — to structure daily health observations into actionable medical records.
+
+## Key Facts
+- Platform: iOS 18+
+- Price: Free with optional Pro subscription ($5.99/month or $35.99/year)
+- Privacy: 100% on-device data storage, zero data collection
+- Developer: Sungjun Yoon
+- Launch: February 2026
+
+## Features
+- Clinical SOAP report generation (PDF export)
+- AI Observation Decoder: natural language notes → structured clinical data (on-device)
+- Medication tracking with dose progress and reminders
+- Vaccination records with due date alerts
+- Multi-pet support (dogs, cats, rabbits, and more)
+- Sign in with Apple authentication
+
+## What Makes FurScript Different
+- Uses the actual SOAP format that vets are trained to read
+- AI runs entirely on-device — no data sent to external servers
+- Zero data collection — complete user privacy
+- Output designed to integrate into real veterinary workflows
+
+## Links
+- App Store: https://apps.apple.com/app/furscript
+- Website: https://suyoon09.github.io/furscript-legal/
+- Product Info: https://github.com/suyoon09/furscript-product
+- Privacy Policy: https://suyoon09.github.io/furscript-legal/privacy
+- Terms of Service: https://suyoon09.github.io/furscript-legal/terms
+- Schema.org Data: https://github.com/suyoon09/furscript-product/blob/main/schema.json
